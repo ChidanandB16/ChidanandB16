@@ -1,10 +1,10 @@
+````html
 <div align="center">
 
 # Hey, I'm CHIDANAND 👋
 
 ### Full-Stack Developer • Problem Solver • Builder
 
-```html
 <p>
   <a href="https://github.com/ChidanandB16">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -16,7 +16,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+</div>
 
 ---
 
@@ -26,11 +29,11 @@ I'm an **Information Science & Engineering student** who enjoys turning ideas in
 
 I like building things, solving problems, experimenting with new technologies, and constantly improving my development skills.
 
-* 🔭 Currently building **full-stack & AI-powered projects**
-* 💻 Practicing **DSA & problem solving**
-* 🌱 Learning more about **AI, automation & scalable applications**
-* 🚀 Interested in **Full-Stack Development & Software Engineering**
-* ⚡ I learn best by **building real projects**
+- 🔭 Currently building **Full-Stack & AI-powered projects**
+- 💻 Practicing **DSA & problem solving**
+- 🌱 Learning more about **AI, automation & scalable applications**
+- 🚀 Interested in **Full-Stack Development & Software Engineering**
+- ⚡ I learn best by **building real projects**
 
 ---
 
@@ -39,25 +42,25 @@ I like building things, solving problems, experimenting with new technologies, a
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
@@ -98,9 +101,9 @@ A responsive Spotify-inspired frontend built to practice modern UI development a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChidanandB16&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChidanandB16&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChidanandB16&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChidanandB16&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
@@ -116,6 +119,16 @@ A responsive Spotify-inspired frontend built to practice modern UI development a
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ChidanandB16/ChidanandB16/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+---
+
 ## 🧩 What I'm Working On
 
 ```text
@@ -124,7 +137,7 @@ Full-Stack Development █████████████████░░
 AI / ML                ████████████░░░░░░░  Exploring
 Automation             ██████████░░░░░░░░░  Exploring
 System Design          ███████░░░░░░░░░░░░  Learning
-```
+````
 
 ---
 
@@ -143,4 +156,9 @@ System Design          ███████░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>
+```
