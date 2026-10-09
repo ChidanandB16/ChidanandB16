@@ -3,7 +3,9 @@
 
 # Hey, I'm CHIDANAND 👋
 
-### Full-Stack Developer • Problem Solver • Builder
+<a href="https://github.com/ChidanandB16">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Problem+Solver;Builder;ISE+Student" alt="Typing animation" />
+</a>
 
 <p>
   <a href="https://github.com/ChidanandB16">
